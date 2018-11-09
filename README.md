@@ -9,7 +9,7 @@ or the goal is to have the most homestead possible on the board and have the mos
 ## Tech/framework used
 
 <div align=center>
-  <img src="media/logo.svg" alt="generator-phaser-plus logo" title="generator-phaser-plus">
+  <img src="https://github.com/rblopes/generator-phaser-plus/blob/master/media/logo.svg" alt="generator-phaser-plus logo" title="generator-phaser-plus">
 </div>
 
 ## Installation 
