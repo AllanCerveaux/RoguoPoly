@@ -1,5 +1,7 @@
 ## Roguopoly
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/AllanCerveaux/RoguoPoly) [![Dependencies](https://david-dm.org/AllanCerveaux/RoguoPoly/status.svg?style=flat-square)](https://github.com/AllanCerveaux/RoguoPoly) [![Dependencies](https://david-dm.org/AllanCerveaux/RoguoPoly/dev-status.svg?style=flat-square)](https://github.com/AllanCerveaux/RoguoPoly)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/AllanCerveaux/Roguopoly) 
+[![Dependencies](https://david-dm.org/AllanCerveaux/Roguopoly/status.svg?style=flat-square)](https://github.com/AllanCerveaux/Roguopoly) 
+[![Dependencies](https://david-dm.org/AllanCerveaux/Roguopoly/dev-status.svg?style=flat-square)](https://github.com/AllanCerveaux/Roguopoly)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/AllanCerveaux/RoguoPoly/issues)
 ____
 
@@ -18,9 +20,9 @@ or the goal is to have the most homestead possible on the board and have the mos
 
 
 ## Contribute
-Read a [contributing guideline](#) learn you can help `roguopoly` 
+Read a [contributing guideline](https://github.com/AllanCerveaux/Roguopoly/blob/master/CONTRIBUTING.md) learn you can help `roguopoly` 
 
 ## License
-This software is distributed under the terms of the [MIT License](https://github.com/AllanCerveaux/RoguoPoly/blob/master/LICENSE).
+This software is distributed under the terms of the [MIT License](https://github.com/AllanCerveaux/Roguopoly/blob/master/LICENSE).
 
 MIT © [callan]("https://callan.fr")
